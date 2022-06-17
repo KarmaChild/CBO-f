@@ -1,0 +1,94 @@
+.Home{
+    text-align: center;
+    background-image: url(C:\Users\adith\WebstormProjects\GitHub\Community-Based-Organization-ReactJs-NodeJs-MySQL\client\src\image.jpg);
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    left: 0%;
+    top: 0%;
+}
+
+.nav{
+    display: inline-flex;
+    flex-direction: column;
+    margin-top: -0px;
+    margin-left: 1000px;
+}
+
+.nav button {
+    height: 20px;
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+img{
+    margin-top: -90px;
+    max-width: 100%;
+    height: 40%;
+    width: 40%;
+    border-radius: 8px;
+}
+
+.text{
+    text-align: center;
+    font-size: 22px; 
+    display: block;
+    margin-bottom: 0px;
+}
+
+
+
+
+.customers{
+    display:inline-flex;
+    margin-top: -10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 700px;
+}
+
+.customers input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.customerReport input{
+    height: 40px;
+}
+
+
+.update{
+    display:inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: -500px;
+}
+
+.update input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.delete{
+    display:inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+}
+
+.delete input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
