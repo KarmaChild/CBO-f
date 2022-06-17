@@ -1,0 +1,14 @@
+
+
+.editStaff{
+    display:inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+}
+
+.editStaff input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
