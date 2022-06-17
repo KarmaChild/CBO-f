@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28795c8a-312e-4013-9ab4-8b347e554443" name="Changes" comment="commit 4">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" />
-    </list>
+    <list default="true" id="28795c8a-312e-4013-9ab4-8b347e554443" name="Changes" comment="commit 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
+    <dismissed value="$PROJECT_DIR$/backend/package.json" />
   </component>
   <component name="ProjectId" id="2AgWzZImX1ERzqvtfR2Jl7cEzMv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,6 +29,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adith\WebstormProjects\GitHub\CBO f\client" />
+      <recent name="C:\Users\adith\WebstormProjects\GitHub\CBO f\server" />
+      <recent name="C:\Users\adith\WebstormProjects\GitHub\CBO f" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655431971853</updated>
-      <workItem from="1655431972989" duration="636000" />
+      <workItem from="1655431972989" duration="934000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2">
       <created>1655432094455</created>
@@ -81,7 +81,42 @@
       <option name="project" value="LOCAL" />
       <updated>1655432312673</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit 5">
+      <created>1655432632409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655432632409</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit 5">
+      <created>1655432707442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655432707442</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit 6">
+      <created>1655432765515</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655432765515</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit 7">
+      <created>1655432813578</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655432813578</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit 8">
+      <created>1655432906630</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655432906630</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +138,10 @@
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
     <MESSAGE value="commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+    <MESSAGE value="commit 5" />
+    <MESSAGE value="commit 6" />
+    <MESSAGE value="commit 7" />
+    <MESSAGE value="commit 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 8" />
   </component>
 </project>
