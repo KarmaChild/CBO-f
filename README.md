@@ -1,6 +1,6 @@
 # Community-Based-Organization-ReactJs-NodeJs-MySQL
 
-# View the Presentation Slides - [a link](https://github.com/KarmaChild/Community-Based-Organization-ReactJs-NodeJs-MySQL/blob/master/Community%20Based%20Organization%20Presentation.pdf)
+# View the Presentation Slides - [View Presentation](https://github.com/KarmaChild/Community-Based-Organization-ReactJs-NodeJs-MySQL/blob/master/Community%20Based%20Organization%20Presentation.pdf)
 
 # Getting started
 - Clone the repository
