@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28795c8a-312e-4013-9ab4-8b347e554443" name="Changes" comment="Git fix" />
+    <list default="true" id="28795c8a-312e-4013-9ab4-8b347e554443" name="Changes" comment="Css fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
       <updated>1655431971853</updated>
       <workItem from="1655431972989" duration="1371000" />
       <workItem from="1655433390003" duration="128000" />
+      <workItem from="1656351228682" duration="1504000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2">
       <created>1655432094455</created>
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655433454604</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Css fix">
+      <created>1656351624156</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656351624156</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +201,7 @@
     <MESSAGE value="commit 9" />
     <MESSAGE value="commit 9.1" />
     <MESSAGE value="Git fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git fix" />
+    <MESSAGE value="Css fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Css fix" />
   </component>
 </project>
