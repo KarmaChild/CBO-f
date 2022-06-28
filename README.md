@@ -1,5 +1,7 @@
 # Community-Based-Organization-ReactJs-NodeJs-MySQL
 
+# View the Presentation Slides - 
+
 # Getting started
 - Clone the repository
 ```
